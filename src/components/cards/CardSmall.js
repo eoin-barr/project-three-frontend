@@ -13,7 +13,6 @@ function CardSmall({ studio }) {
             filter: 'drop-shadow(0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.2))',
           }}>
           <div className="card-body">
-            {console.log(studio.location.town)}
             <h5 className="card-title">{studio.name}</h5>
             <p className="card-text">{studio.location.town}</p>
             {/* Insert filter here: if user then filter for studio.bookedstudio.bookings where (userId=bookedBy)&&(studio._id=studioId) and return bookedBy */}
