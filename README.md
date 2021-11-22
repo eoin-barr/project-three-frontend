@@ -141,7 +141,7 @@ userSchema
 ## Potential Improvements
 
 - Using React and Redux to manage state in the application.
-- Implementing TypeScript so that we would have a much clearer idea of the types of data flowing throughout application.
+- Implementing TypeScript so that we would have a much clearer idea of the types of data flowing throughout the frontend of our application.
 
 ## Key Learnings
 
