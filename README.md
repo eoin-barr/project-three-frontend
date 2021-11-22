@@ -5,7 +5,7 @@
 AirStudio mimics the basic CRUD functionality associated with Airbnb, built with a React frontend and Mongo and Express backend. This was a group project built over 7 days with [Harry Evans](https://github.com/hatch9191) and [Christian Baker](https://github.com/Majoggy). Check out the [deployed app here](https://airstudio-project.netlify.app/). Create an account or use Email: guest<span>@email.com</span> Password: password.
 
 <p align="center">
-  <img style="height:350px;width:auto" src="https://res.cloudinary.com/dk0r9bcxy/image/upload/v1633015744/portfolio-website/Screenshot_2021-09-30_at_16.28.16_adbkxe.png" />
+  <img style="height:400px;width:auto" src="https://res.cloudinary.com/dk0r9bcxy/image/upload/v1633015744/portfolio-website/Screenshot_2021-09-30_at_16.28.16_adbkxe.png" />
 </p>
 
 ### Technologies Used
